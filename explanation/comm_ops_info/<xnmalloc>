@@ -1,0 +1,1 @@
+push mov sub mov mov divl cmp jae call mov imul mov call leave ret 

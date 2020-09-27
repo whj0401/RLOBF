@@ -1,0 +1,1 @@
+push mov sub mov mov mov cmpl jne cmpl jne mov mov divl mov cmpl sete movzbl add mov mov divl cmp jae call mov mov divl cmp ja call mov shr mov mov add add mov mov mov mov mov imul mov mov mov call leave ret 

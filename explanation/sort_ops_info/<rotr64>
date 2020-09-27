@@ -1,0 +1,1 @@
+push mov push push push sub mov mov mov mov mov mov mov mov mov shrd shr test je mov xor mov sub shld shl test je mov xor mov or mov mov or mov mov mov add pop pop pop pop ret 

@@ -1,0 +1,1 @@
+push mov sub mov mov mov movzbl lea mov mov cmp jg jmp mov lea mov movb mov cmp jae mov cmp jbe mov sub mov mov movb jmp movb mov mov cmp jae mov sub mov leave ret 

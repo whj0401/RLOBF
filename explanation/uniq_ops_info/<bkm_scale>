@@ -1,0 +1,1 @@
+push mov mov mov mov div mov mov mov cmp jae mov movl mov jmp mov mov mov imul mov mov mov pop ret 

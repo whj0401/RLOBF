@@ -1,0 +1,1 @@
+push mov sub mov movzbl xor test je mov mov mov mov fildll mov flds fdivrp fstps flds flds fxch fucomip fstp jb mov jmp flds fnstcw movzwl mov mov fldcw fistpll fldcw mov mov mov mov mov call mov cmpl jbe mov jmp mov leave ret 

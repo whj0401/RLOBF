@@ -1,0 +1,1 @@
+push mov sub lea mov mov mov call mov movl mov movl mov movl mov mov jmp mov mov jmp addl mov cmp jbe mov movzbl cmp jne mov cmp jbe mov mov mov mov mov cmp jne mov lea mov mov movl mov mov call mov mov mov mov mov mov shl add mov mov mov mov mov mov shl add mov mov sub mov mov mov mov lea mov mov mov cmp jbe addl mov cmp ja mov mov mov mov mov movl movl mov mov call leave ret 

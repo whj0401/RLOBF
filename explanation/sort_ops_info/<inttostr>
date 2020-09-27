@@ -1,0 +1,1 @@
+push mov sub mov add mov mov movb cmpl jns subl mov mov mov imul sar mov sar sub mov shl add add sub mov mov mov sub mov mov mov mov mov mov mov imul sar mov sar sub mov mov cmpl jne subl mov movb jmp subl mov mov mov imul sar mov sar sub mov shl add add sub mov mov add mov mov mov mov mov mov imul sar mov sar sub mov mov cmpl jne mov leave ret 

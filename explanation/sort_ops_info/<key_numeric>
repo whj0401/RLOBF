@@ -1,0 +1,1 @@
+push mov mov movzbl test jne mov movzbl test jne mov movzbl test je mov jmp mov and pop ret 

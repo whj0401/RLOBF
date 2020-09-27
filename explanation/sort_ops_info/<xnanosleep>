@@ -1,0 +1,1 @@
+push mov sub mov mov mov mov lea fldl fstpl mov call sub call movl movl lea mov call test jne nop mov jmp call mov cmp je call mov test je mov jmp jmp leave ret 

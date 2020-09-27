@@ -1,0 +1,1 @@
+push mov sub mov lea mov add mov mov mov mov jmp mov add mov mov cmp jae mov add lea mov add mov mov lea mov add mov mov mov mov call test jns addl mov lea mov add mov mov mov mov mov call test jg jmp mov lea mov add mov lea mov add mov mov mov mov mov shr cmp jae mov lea mov add mov mov mov leave ret 

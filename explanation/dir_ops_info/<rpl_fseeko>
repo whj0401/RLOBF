@@ -1,0 +1,1 @@
+push mov sub mov mov mov mov mov mov mov mov cmp jne mov mov mov mov cmp jne mov mov test jne mov mov call mov mov mov mov mov mov mov mov call mov mov mov xor mov mov xor or test jne mov jmp mov mov and mov mov mov mov mov mov mov mov mov jmp mov mov mov mov mov mov mov mov call leave ret xchg xchg nop 

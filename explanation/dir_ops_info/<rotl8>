@@ -1,0 +1,1 @@
+push mov push sub mov mov movzbl mov mov shl mov mov movzbl mov sub mov sar mov or add pop pop ret 

@@ -1,0 +1,1 @@
+push mov sub mov mov mov cmpl jne mov jmp mov mov mov flds flds fxch fucomip fstp jbe mov flds fld1 fsubs fucomip fstp jbe flds fld1 faddp mov flds fucomip fstp jbe mov flds fldz fxch fucomip fstp jb mov flds fadds mov flds fucomip fstp jbe mov flds fld1 fucomip fstp jb mov flds fadds mov flds fucomip fstp jbe mov jmp mov movl mov leave ret 

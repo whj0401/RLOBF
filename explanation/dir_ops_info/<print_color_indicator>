@@ -1,0 +1,1 @@
+push mov sub cmpl je movl call test je call movl call mov mov call movl call cmpl setne leave ret 

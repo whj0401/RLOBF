@@ -1,0 +1,1 @@
+push mov push push push sub call movl mov mov mov mov call mov call mov test je mov mov movl call mov mov mov movl call mov movl call mov call mov mov mov mov mov movl call movl call movl movl call mov add pop pop pop pop ret 

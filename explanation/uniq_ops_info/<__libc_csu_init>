@@ -1,0 +1,1 @@
+push push push push call add sub mov lea call lea sub sar test je xor lea sub push pushl pushl call add add cmp jne add pop pop pop pop ret lea 

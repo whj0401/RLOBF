@@ -1,0 +1,1 @@
+push mov cmpl sete cmpl sete xor test je cmpl js cmpl js mov jmp mov and pop ret 

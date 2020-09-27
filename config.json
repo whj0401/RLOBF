@@ -1,0 +1,7 @@
+{
+  "prj_dir": "/absolute/path/to/this/dir",
+  "uroboros_env": "/path/to/virtualenv/for/uroboros/python",
+  "ida_pro_path": "/path/to/idapro/with/bindiff",
+  "bindiff_path": "/opt/bindiff/bin/bindiff",
+  "perf_path": "/usr/bin/perf"
+}

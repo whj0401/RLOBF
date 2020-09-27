@@ -1,0 +1,1 @@
+xor pop mov and push push push call add lea push lea push push push mov push call hlt mov ret xchg xchg xchg xchg nop 

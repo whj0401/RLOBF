@@ -1,0 +1,1 @@
+push mov push sub cmpl je mov jmp mov mov call mov mov mov mov cmpl sete movzbl or mov mov mov mov mov mov lea mov mov mov mov mov mov mov mov mov mov mov mov movl movl call add mov mov mov call mov mov mov mov mov mov lea mov mov mov mov mov mov mov mov mov mov mov mov mov mov mov mov call call mov mov cmpl je mov lea mov mov mov add pop pop ret 

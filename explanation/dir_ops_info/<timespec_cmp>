@@ -1,0 +1,1 @@
+push mov mov mov cmp jl mov mov cmp jg mov mov sub mov jmp mov jmp mov pop ret 
